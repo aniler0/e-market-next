@@ -1,0 +1,994 @@
+[
+  {
+    "id": 331840845,
+    "title": "Apple iPhone 11 128GB Akıllı Cep Telefonu",
+    "merchantCount": 21,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 855428448,
+        "price": 16750,
+        "merchant": {
+          "id": 12192,
+          "name": "Needion",
+          "url": "https://www.needion.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/12192.png?v=1"
+        }
+      },
+      {
+        "id": 839191949,
+        "price": 16799,
+        "merchant": {
+          "id": 10052,
+          "name": "Troyestore",
+          "url": "http://www.troyestore.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10052.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-11-128gb-akilli-cep-telefonu_178954745.jpg"
+  },
+  {
+    "id": 253847076,
+    "title": "Apple AirPods 2. Nesil MV7N2TU-A Bluetooth Kulaklık",
+    "merchantCount": 19,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 1155592725,
+        "price": 2469,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      },
+      {
+        "id": 1093167297,
+        "price": 2489,
+        "merchant": {
+          "id": 11512,
+          "name": "Pttavm",
+          "url": "https://www.pttavm.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/11512.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-airpods-2-nesil-mv7n2tu-a-bluetooth-kulaklik_206487557.jpg"
+  },
+  {
+    "id": 337340793,
+    "title": "Apple iPhone 11 64GB 4GB Ram 6.1 inç 12MP Akıllı Cep Telefonu Siyah",
+    "merchantCount": 23,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 860505320,
+        "price": 15298.99,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      },
+      {
+        "id": 900163904,
+        "price": 15449,
+        "merchant": {
+          "id": 12929,
+          "name": "Pazarama",
+          "url": "https://www.pazarama.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/12929.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-11-64gb-4gb-ram-61-inc-12mp-akilli-cep-telefonu-siyah_219571586.jpg"
+  },
+  {
+    "id": 2056171993,
+    "title": "Apple iPhone 14 5G 128GB 6GB Ram 6.1 İnç 12MP Akıllı Cep Telefonu Product Red",
+    "merchantCount": 10,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 1142600253,
+        "price": 30899,
+        "merchant": {
+          "id": 4093,
+          "name": "Turkcell",
+          "url": "http://www.turkcell.com.tr",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/4093.png?v=1"
+        }
+      },
+      {
+        "id": 1147861265,
+        "price": 30999,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-14-5g-128gb-6gb-ram-61-inc-12mp-akilli-cep-telefonu-product-red_642033159.jpg"
+  },
+  {
+    "id": 1499570466,
+    "title": "Xiaomi Redmi Note 11 Pro 128GB 8GB Ram 6.67 inç 108MP Akıllı Cep Telefonu Gri",
+    "merchantCount": 17,
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "topOffers": [
+      {
+        "id": 1151654543,
+        "price": 7399,
+        "merchant": {
+          "id": 13581,
+          "name": "TEKNOSAH.COM",
+          "url": "https://www.teknosah.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/13581.png?v=1"
+        }
+      },
+      {
+        "id": 1155276821,
+        "price": 7860,
+        "merchant": {
+          "id": 7000,
+          "name": "n11",
+          "url": "http://www.n11.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/7000.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/xiaomi-redmi-note-11-pro-128gb-8gb-ram-667-inc-108mp-akilli-cep-telefonu-gri_592313503.jpg"
+  },
+  {
+    "id": 2056188942,
+    "title": "Apple iPhone 14 Pro 5G 1TB 6GB Ram 6.1 İnç 48MP Akıllı Cep Telefonu Altın",
+    "merchantCount": 10,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 1151847894,
+        "price": 51999,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      },
+      {
+        "id": 1156013681,
+        "price": 52915,
+        "merchant": {
+          "id": 1497,
+          "name": "Hepsiburada",
+          "url": "http://www.hepsiburada.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/1497.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-14-pro-5g-1tb-6gb-ram-61-inc-48mp-akilli-cep-telefonu-altin_642034918.jpg"
+  },
+  {
+    "id": 2056188936,
+    "title": "Apple iPhone 14 Pro 5G 1TB 6GB Ram 6.1 İnç 48MP Akıllı Cep Telefonu Gümüş",
+    "merchantCount": 7,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 1152475240,
+        "price": 52899,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      },
+      {
+        "id": 1146753004,
+        "price": 53199,
+        "merchant": {
+          "id": 11375,
+          "name": "Vatanbilgisayar",
+          "url": "https://www.vatanbilgisayar.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/11375.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-14-pro-5g-1tb-6gb-ram-61-inc-48mp-akilli-cep-telefonu-gumus_642034933.jpg"
+  },
+  {
+    "id": 2056171652,
+    "title": "Apple iPhone 14 5G 128GB 6GB Ram 6.1 İnç 12MP Akıllı Cep Telefonu Gece Yarısı",
+    "merchantCount": 9,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 1147861406,
+        "price": 30999,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      },
+      {
+        "id": 1146752990,
+        "price": 30999,
+        "merchant": {
+          "id": 11375,
+          "name": "Vatanbilgisayar",
+          "url": "https://www.vatanbilgisayar.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/11375.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-14-5g-128gb-6gb-ram-61-inc-12mp-akilli-cep-telefonu-gece-yarisi_642033114.jpg"
+  },
+  {
+    "id": 337341638,
+    "title": "Apple iPhone 11 64GB 4GB Ram 6.1 inç 12MP Akıllı Cep Telefonu",
+    "merchantCount": 24,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 860505320,
+        "price": 15298.99,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      },
+      {
+        "id": 900163904,
+        "price": 15449,
+        "merchant": {
+          "id": 12929,
+          "name": "Pazarama",
+          "url": "https://www.pazarama.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/12929.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-11-64gb-4gb-ram-61-inc-12mp-akilli-cep-telefonu_178955343.jpg"
+  },
+  {
+    "id": 930793149,
+    "title": "Apple iPhone 13 5G 128GB 4GB Ram 6.1 inç 12MP Akıllı Cep Telefonu",
+    "merchantCount": 23,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 743578869,
+        "price": 25373.6,
+        "merchant": {
+          "id": 10370,
+          "name": "Amazon",
+          "url": "https://www.amazon.com.tr",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10370.png?v=1"
+        }
+      },
+      {
+        "id": 982180527,
+        "price": 25497.73,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-13-5g-128gb-4gb-ram-61-inc-12mp-akilli-cep-telefonu_467012495.jpg"
+  },
+  {
+    "id": 1546348870,
+    "title": "Xiaomi Redmi Note 11 Pro 128GB 6GB Ram 6.67 inç 108MP Akıllı Cep Telefonu",
+    "merchantCount": 10,
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "topOffers": [
+      {
+        "id": 1154749358,
+        "price": 8199.36,
+        "merchant": {
+          "id": 1497,
+          "name": "Hepsiburada",
+          "url": "http://www.hepsiburada.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/1497.png?v=1"
+        }
+      },
+      {
+        "id": 975494796,
+        "price": 8355,
+        "merchant": {
+          "id": 11512,
+          "name": "Pttavm",
+          "url": "https://www.pttavm.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/11512.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/xiaomi-redmi-note-11-pro-128gb-6gb-ram-667-inc-108mp-akilli-cep-telefonu_595678307.jpg"
+  },
+  {
+    "id": 976283254,
+    "title": "Xiaomi Redmi 9C 128GB 4GB Ram 6.53 inç 13MP Akıllı Cep Telefonu",
+    "merchantCount": 10,
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "topOffers": [
+      {
+        "id": 594125889,
+        "price": 3199,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      },
+      {
+        "id": 1156092309,
+        "price": 4084.05,
+        "merchant": {
+          "id": 1497,
+          "name": "Hepsiburada",
+          "url": "http://www.hepsiburada.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/1497.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/xiaomi-redmi-9c-128gb-4gb-ram-653-inc-13mp-akilli-cep-telefonu_511380192.jpg"
+  },
+  {
+    "id": 652976204,
+    "title": "Apple iPhone 12 5G 64GB 4GB Ram 6.1 inç 12MP Akıllı Cep Telefonu",
+    "merchantCount": 16,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 1149259413,
+        "price": 21429.34,
+        "merchant": {
+          "id": 7000,
+          "name": "n11",
+          "url": "http://www.n11.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/7000.png?v=1"
+        }
+      },
+      {
+        "id": 1147812357,
+        "price": 21498.99,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-12-5g-64gb-4gb-ram-61-inc-12mp-akilli-cep-telefonu_309416795.jpg"
+  },
+  {
+    "id": 930794211,
+    "title": "Apple iPhone 13 Pro 5G 128GB 6GB Ram 6.1 inç 12MP Akıllı Cep Telefonu",
+    "merchantCount": 20,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 1154406319,
+        "price": 31257.1,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      },
+      {
+        "id": 1132505527,
+        "price": 31799,
+        "merchant": {
+          "id": 7000,
+          "name": "n11",
+          "url": "http://www.n11.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/7000.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-13-pro-5g-128gb-6gb-ram-61-inc-12mp-akilli-cep-telefonu_467018227.jpg"
+  },
+  {
+    "id": 1212897254,
+    "title": "Samsung Galaxy S22 5G 128GB 8GB Ram 6.1 inç 50MP Akıllı Cep Telefonu",
+    "merchantCount": 17,
+    "brand": {
+      "name": "Samsung"
+    },
+    "topOffers": [
+      {
+        "id": 1151854993,
+        "price": 15549.07,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      },
+      {
+        "id": 1096031310,
+        "price": 15724.8,
+        "merchant": {
+          "id": 1497,
+          "name": "Hepsiburada",
+          "url": "http://www.hepsiburada.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/1497.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/samsung-galaxy-s22-5g-128gb-8gb-ram-61-inc-50mp-akilli-cep-telefonu_560505370.jpg"
+  },
+  {
+    "id": 930796016,
+    "title": "Apple iPhone 13 Pro Max 5G 128GB 6GB Ram 6.7 inç 12MP Akıllı Cep Telefonu",
+    "merchantCount": 18,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 1119603264,
+        "price": 34599,
+        "merchant": {
+          "id": 9104,
+          "name": "Elimar",
+          "url": "http://www.elimar.com.tr",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/9104.png?v=1"
+        }
+      },
+      {
+        "id": 855430501,
+        "price": 34980,
+        "merchant": {
+          "id": 12192,
+          "name": "Needion",
+          "url": "https://www.needion.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/12192.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-13-pro-max-5g-128gb-6gb-ram-67-inc-12mp-akilli-cep-telefonu_467022378.jpg"
+  },
+  {
+    "id": 976282285,
+    "title": "Xiaomi Redmi 9A 64GB 4GB Ram 6.53 inç 13MP Akıllı Cep Telefonu",
+    "merchantCount": 4,
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "topOffers": [
+      {
+        "id": 1151654580,
+        "price": 2799,
+        "merchant": {
+          "id": 13581,
+          "name": "TEKNOSAH.COM",
+          "url": "https://www.teknosah.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/13581.png?v=1"
+        }
+      },
+      {
+        "id": 1151647943,
+        "price": 2899,
+        "merchant": {
+          "id": 11512,
+          "name": "Pttavm",
+          "url": "https://www.pttavm.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/11512.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/xiaomi-redmi-9a-64gb-4gb-ram-653-inc-13mp-akilli-cep-telefonu_499495453.jpg"
+  },
+  {
+    "id": 752179274,
+    "title": "Xiaomi Redmi Note 10S 128GB 6GB Ram 6.43 inç 64MP Akıllı Cep Telefonu Gri",
+    "merchantCount": 11,
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "topOffers": [
+      {
+        "id": 1151654571,
+        "price": 5599,
+        "merchant": {
+          "id": 13581,
+          "name": "TEKNOSAH.COM",
+          "url": "https://www.teknosah.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/13581.png?v=1"
+        }
+      },
+      {
+        "id": 1140709813,
+        "price": 6195,
+        "merchant": {
+          "id": 7000,
+          "name": "n11",
+          "url": "http://www.n11.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/7000.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/xiaomi-redmi-note-10s-128gb-6gb-ram-643-inc-64mp-akilli-cep-telefonu-gri_364217519.jpg"
+  },
+  {
+    "id": 1423501565,
+    "title": "Samsung Galaxy A73 5G 128GB 8GB Ram 6.7 inç 108MP Akıllı Cep Telefonu Beyaz",
+    "merchantCount": 12,
+    "brand": {
+      "name": "Samsung"
+    },
+    "topOffers": [
+      {
+        "id": 1113780273,
+        "price": 11798,
+        "merchant": {
+          "id": 4093,
+          "name": "Turkcell",
+          "url": "http://www.turkcell.com.tr",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/4093.png?v=1"
+        }
+      },
+      {
+        "id": 1144470130,
+        "price": 11846.02,
+        "merchant": {
+          "id": 11512,
+          "name": "Pttavm",
+          "url": "https://www.pttavm.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/11512.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/samsung-galaxy-a73-5g-128gb-8gb-ram-67-inc-108mp-akilli-cep-telefonu-beyaz_608349960.jpg"
+  },
+  {
+    "id": 337337465,
+    "title": "Apple iPhone 11 64GB 4GB Ram 6.1 inç 12MP Akıllı Cep Telefonu Beyaz",
+    "merchantCount": 19,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 921501340,
+        "price": 15489,
+        "merchant": {
+          "id": 11512,
+          "name": "Pttavm",
+          "url": "https://www.pttavm.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/11512.png?v=1"
+        }
+      },
+      {
+        "id": 1006893518,
+        "price": 15598,
+        "merchant": {
+          "id": 7000,
+          "name": "n11",
+          "url": "http://www.n11.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/7000.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-11-64gb-4gb-ram-61-inc-12mp-akilli-cep-telefonu-beyaz_178955343.jpg"
+  },
+  {
+    "id": 331829886,
+    "title": "Apple iPhone 11 128GB 4GB Ram 6.1 inç 12MP Akıllı Cep Telefonu Beyaz",
+    "merchantCount": 18,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 839191948,
+        "price": 16799,
+        "merchant": {
+          "id": 10052,
+          "name": "Troyestore",
+          "url": "http://www.troyestore.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10052.png?v=1"
+        }
+      },
+      {
+        "id": 855428851,
+        "price": 16950,
+        "merchant": {
+          "id": 12192,
+          "name": "Needion",
+          "url": "https://www.needion.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/12192.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-11-128gb-4gb-ram-61-inc-12mp-akilli-cep-telefonu-beyaz_178954745.jpg"
+  },
+  {
+    "id": 1389936130,
+    "title": "Samsung Galaxy A13 64GB 4GB Ram 6.6 inç 50MP Akıllı Cep Telefonu",
+    "merchantCount": 9,
+    "brand": {
+      "name": "Samsung"
+    },
+    "topOffers": [
+      {
+        "id": 1088681619,
+        "price": 4740,
+        "merchant": {
+          "id": 12192,
+          "name": "Needion",
+          "url": "https://www.needion.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/12192.png?v=1"
+        }
+      },
+      {
+        "id": 1121430274,
+        "price": 4749,
+        "merchant": {
+          "id": 4093,
+          "name": "Turkcell",
+          "url": "http://www.turkcell.com.tr",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/4093.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/samsung-galaxy-a13-64gb-4gb-ram-66-inc-50mp-akilli-cep-telefonu_595588510.jpg"
+  },
+  {
+    "id": 1740118192,
+    "title": "Xiaomi Redmi Note 11 128GB 4GB Ram 6.43 inç 50MP Akıllı Cep Telefonu Gri",
+    "merchantCount": 10,
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "topOffers": [
+      {
+        "id": 1042944407,
+        "price": 5590.48,
+        "merchant": {
+          "id": 1497,
+          "name": "Hepsiburada",
+          "url": "http://www.hepsiburada.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/1497.png?v=1"
+        }
+      },
+      {
+        "id": 1077452963,
+        "price": 5593.41,
+        "merchant": {
+          "id": 10370,
+          "name": "Amazon",
+          "url": "https://www.amazon.com.tr",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10370.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/xiaomi-redmi-note-11-128gb-4gb-ram-643-inc-50mp-akilli-cep-telefonu-gri_612144842.jpg"
+  },
+  {
+    "id": 2056171635,
+    "title": "Apple iPhone 14 5G 128GB 6GB Ram 6.1 İnç 12MP Akıllı Cep Telefonu",
+    "merchantCount": 12,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 1142600253,
+        "price": 30899,
+        "merchant": {
+          "id": 4093,
+          "name": "Turkcell",
+          "url": "http://www.turkcell.com.tr",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/4093.png?v=1"
+        }
+      },
+      {
+        "id": 1155754449,
+        "price": 30969.05,
+        "merchant": {
+          "id": 1497,
+          "name": "Hepsiburada",
+          "url": "http://www.hepsiburada.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/1497.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-14-5g-128gb-6gb-ram-61-inc-12mp-akilli-cep-telefonu_642033116.jpg"
+  },
+  {
+    "id": 976283252,
+    "title": "Xiaomi Redmi 9C 128GB 4GB Ram 6.53 inç 13MP Akıllı Cep Telefonu Mavi",
+    "merchantCount": 5,
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "topOffers": [
+      {
+        "id": 594125889,
+        "price": 3199,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      },
+      {
+        "id": 1113610775,
+        "price": 4399,
+        "merchant": {
+          "id": 10370,
+          "name": "Amazon",
+          "url": "https://www.amazon.com.tr",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10370.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/xiaomi-redmi-9c-128gb-4gb-ram-653-inc-13mp-akilli-cep-telefonu-mavi_499515579.jpg"
+  },
+  {
+    "id": 652985901,
+    "title": "Apple iPhone 12 Pro Max 5G 128GB 6GB Ram 6.7 inç 12MP Akıllı Cep Telefonu",
+    "merchantCount": 6,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 1119603265,
+        "price": 32899,
+        "merchant": {
+          "id": 9104,
+          "name": "Elimar",
+          "url": "http://www.elimar.com.tr",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/9104.png?v=1"
+        }
+      },
+      {
+        "id": 1135465754,
+        "price": 32999,
+        "merchant": {
+          "id": 7000,
+          "name": "n11",
+          "url": "http://www.n11.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/7000.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-12-pro-max-5g-128gb-6gb-ram-67-inc-12mp-akilli-cep-telefonu_309421557.jpg"
+  },
+  {
+    "id": 906458209,
+    "title": "JBL Tune 510bt Siyah Multi Connect Wireless Kulaklık",
+    "merchantCount": 9,
+    "brand": {
+      "name": "JBL"
+    },
+    "topOffers": [
+      {
+        "id": 1145827374,
+        "price": 849,
+        "merchant": {
+          "id": 9104,
+          "name": "Elimar",
+          "url": "http://www.elimar.com.tr",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/9104.png?v=1"
+        }
+      },
+      {
+        "id": 1063701351,
+        "price": 935.9,
+        "merchant": {
+          "id": 7000,
+          "name": "n11",
+          "url": "http://www.n11.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/7000.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/jbl-tune-510bt-siyah-multi-connect-wireless-kulaklik_528706694.jpg"
+  },
+  {
+    "id": 605330267,
+    "title": "Xiaomi Redmi 9C 64GB 3GB Ram 6.53 inç 13MP Akıllı Cep Telefonu",
+    "merchantCount": 12,
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "topOffers": [
+      {
+        "id": 1151654582,
+        "price": 3199,
+        "merchant": {
+          "id": 13581,
+          "name": "TEKNOSAH.COM",
+          "url": "https://www.teknosah.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/13581.png?v=1"
+        }
+      },
+      {
+        "id": 1154186346,
+        "price": 3349,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/xiaomi-redmi-9c-64gb-3gb-ram-653-inc-13mp-akilli-cep-telefonu_289081223.jpg"
+  },
+  {
+    "id": 337326665,
+    "title": "Apple iPhone 11 128GB 4GB Ram 6.1 inç 12MP Akıllı Cep Telefonu Siyah",
+    "merchantCount": 20,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 855428448,
+        "price": 16750,
+        "merchant": {
+          "id": 12192,
+          "name": "Needion",
+          "url": "https://www.needion.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/12192.png?v=1"
+        }
+      },
+      {
+        "id": 839191949,
+        "price": 16799,
+        "merchant": {
+          "id": 10052,
+          "name": "Troyestore",
+          "url": "http://www.troyestore.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10052.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-11-128gb-4gb-ram-61-inc-12mp-akilli-cep-telefonu-siyah_178953831.jpg"
+  },
+  {
+    "id": 330907466,
+    "title": "Xiaomi Redmi Note 8 64GB 4GB Ram 6.3 inç 48MP Akıllı Cep Telefonu Mavi",
+    "merchantCount": 5,
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "topOffers": [
+      {
+        "id": 1112929329,
+        "price": 3950,
+        "merchant": {
+          "id": 7000,
+          "name": "n11",
+          "url": "http://www.n11.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/7000.png?v=1"
+        }
+      },
+      {
+        "id": 976417136,
+        "price": 4459,
+        "merchant": {
+          "id": 11512,
+          "name": "Pttavm",
+          "url": "https://www.pttavm.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/11512.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/xiaomi-redmi-note-8-64gb-4gb-ram-63-inc-48mp-akilli-cep-telefonu-mavi_200445925.jpg"
+  },
+  {
+    "id": 2056188425,
+    "title": "Apple iPhone 14 Pro 5G 128GB 6GB Ram 6.1 İnç 48MP Akıllı Cep Telefonu",
+    "merchantCount": 5,
+    "brand": {
+      "name": "Apple"
+    },
+    "topOffers": [
+      {
+        "id": 1155322427,
+        "price": 42504.88,
+        "merchant": {
+          "id": 1497,
+          "name": "Hepsiburada",
+          "url": "http://www.hepsiburada.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/1497.png?v=1"
+        }
+      },
+      {
+        "id": 1150112665,
+        "price": 44898,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/apple-iphone-14-pro-5g-128gb-6gb-ram-61-inc-48mp-akilli-cep-telefonu_642034368.jpg"
+  },
+  {
+    "id": 931322998,
+    "title": "Xiaomi 11T 5G 256GB 8GB Ram 6.67 inç 108MP Akıllı Cep Telefonu",
+    "merchantCount": 5,
+    "brand": {
+      "name": "Xiaomi"
+    },
+    "topOffers": [
+      {
+        "id": 1154354171,
+        "price": 14437,
+        "merchant": {
+          "id": 10109,
+          "name": "Trendyol",
+          "url": "https://www.trendyol.com/",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/10109.png?v=1"
+        }
+      },
+      {
+        "id": 1009365192,
+        "price": 14999,
+        "merchant": {
+          "id": 7000,
+          "name": "n11",
+          "url": "http://www.n11.com",
+          "logo": "https://cdn.cimri.io/pictures/merchant-logos/7000.png?v=1"
+        }
+      }
+    ],
+    "imageUrl": "https://cdn.cimri.io/image/178x178/xiaomi-11t-5g-256gb-8gb-ram-667-inc-108mp-akilli-cep-telefonu_546043557.jpg"
+  }
+]
