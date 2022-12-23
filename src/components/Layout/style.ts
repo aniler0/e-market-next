@@ -49,8 +49,8 @@ export const Products = styled.main`
 `;
 export const ProductFilters = styled.div`
     position: sticky;
-    top: 10%;
-    height: 300px;
+    top: 100px;
+    height: 100%;
     background: #fff;
     width: 200px;
     min-width: 200px;
