@@ -3,6 +3,14 @@ const path = require('path');
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     reactStrictMode: true,
+    images: {
+        remotePatterns: [
+            {
+                protocol: 'https',
+                hostname: 'cdn.cimri.io',
+            },
+        ],
+    },
     swcMinify: true,
     compiler: {
         styledComponents: true,

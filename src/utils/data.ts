@@ -9,6 +9,6 @@ async function getProductsData() {
         jsonDirectory + '/data.json',
         'utf8',
     );
-    return JSON.parse(JSON.stringify(fileContents));
+    return JSON.parse(fileContents);
 }
 export default getProductsData;

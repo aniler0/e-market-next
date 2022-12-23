@@ -1,36 +1,10 @@
-import { Filter, Product, Searchbar } from '@components';
+import { Product } from '@components';
+import { ProductsDataModel, RootProductsModel } from '@models/products-data.model';
 import * as S from '@styles/home';
 import { getProductsData } from '@utils';
 
-export default function Home({ products }: any) {
-    return (
-        <S.HomeWrapper>
-            <S.Header>
-                <S.HeaderContainer>
-                    <S.Brand>MegaMark</S.Brand>
-                    <Searchbar />
-                </S.HeaderContainer>
-            </S.Header>
-            <S.MainSection>
-                <S.ProductFilters>
-                    <Filter />
-                    <Filter />
-                    <Filter />
-                </S.ProductFilters>
-                <S.Products>
-                    <Product />
-                    <Product />
-                    <Product />
-                    <Product />
-                    <Product />
-                    <Product />
-                    <Product />
-                    <Product />
-                    <Product />
-                </S.Products>
-            </S.MainSection>
-        </S.HomeWrapper>
-    );
+export default function Home({ products }: RootProductsModel) {
+    return products.map((product, key) => <Product key={key} {...product} />);
 }
 
 export async function getServerSideProps() {
