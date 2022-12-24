@@ -11,7 +11,6 @@ const nextConfig = {
             },
         ],
     },
-    swcMinify: true,
     compiler: {
         styledComponents: true,
     },
