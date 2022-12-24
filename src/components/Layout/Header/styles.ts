@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
-export const LayoutWrapper = styled.div``;
-export const Header = styled.header`
+export const HeaderWrapper = styled.header`
     position: sticky;
     top: 0;
     z-index: 3333;
@@ -23,7 +22,7 @@ export const HeaderContainer = styled.div`
         flex-direction: column;
     }
 `;
-export const Brand = styled.h1`
+export const Banner = styled.h3`
     font-size: 2rem;
     margin-right: 20px;
     font-weight: 400;
@@ -32,28 +31,4 @@ export const Brand = styled.h1`
         font-size: 1.5rem;
         margin-right: 0;
     }
-`;
-export const MainSection = styled.section`
-    display: flex;
-    width: 80%;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 2em 0;
-`;
-export const Products = styled.main`
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 25px;
-`;
-export const ProductFilters = styled.div`
-    position: sticky;
-    top: 100px;
-    height: 100%;
-    background: #fff;
-    width: 200px;
-    min-width: 200px;
-    max-width: 200px;
-    border: 1px solid #eee;
 `;

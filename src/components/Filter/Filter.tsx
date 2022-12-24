@@ -3,7 +3,7 @@ import React, { FC } from 'react';
 
 import * as S from './styles';
 
-interface FilterProps {
+interface FilterProps extends React.HTMLAttributes<HTMLInputElement> {
     title: string;
     items?: string[];
 }
