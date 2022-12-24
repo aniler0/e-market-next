@@ -1,9 +1,8 @@
-import React, { FC } from 'react';
-
-import { Input } from '@components/common';
 import Filter from '@components/Filter/Filter';
+import { Input } from '@components/common';
 import { SearchIcon } from '@components/icons';
 import ExtractFilterPropertiesUtil from '@utils/extract-filter-properties';
+import React, { FC } from 'react';
 
 import * as S from './styles';
 
@@ -29,7 +28,7 @@ const Layout: FC<LayoutProps> = ({ children }) => {
                 <S.ProductFilters>
                     <Filter title="Brands" items={brands} />
                     <Filter title="Sellers" items={sellers} />
-                    <Filter title="Price" items={[]} />
+                    <Filter title="Price" />
                 </S.ProductFilters>
                 <S.Products>{children}</S.Products>
             </S.MainSection>

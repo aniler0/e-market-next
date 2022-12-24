@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const FilterWrapper = styled.div`
-    padding: 14px 40px 14px 16px;
+    padding: 14px 16px;
     border-bottom: 1px solid #e6e6e6;
     &:last-child {
         border-bottom: none;
@@ -21,11 +21,19 @@ export const FilterItem = styled.div`
     display: flex;
     align-items: center;
 `;
-export const Checkbox = styled.input`
-    transform: scale(1.2);
-`;
-export const Label = styled.label`
-    padding-left: 10px;
+
+export const PriceFilter = styled.div``;
+export const Button = styled.button`
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid black;
+    cursor: pointer;
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 700;
+    :hover {
+        background-color: #f3f9fb;
+    }
+    :active {
+        background-color: #cfe8ff;
+    }
 `;
