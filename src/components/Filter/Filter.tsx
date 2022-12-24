@@ -1,27 +1,23 @@
 import React, { FC } from 'react';
 
+import { Checkbox, Input } from '@components/common';
+
 import * as S from './styles';
 
 interface FilterProps {
     title: string;
-    items: string[];
+    items?: string[];
 }
 
 const Filter: FC<FilterProps> = ({ title, items }) => {
     return (
         <S.FilterWrapper>
             <S.FilterTitle>{title}</S.FilterTitle>
-            {items.map((item, key) => (
-                <S.FilterItem key={key}>
-                    <S.Checkbox
-                        type="checkbox"
-                        name="checkbox"
-                        id="checkbox-id"
-                        value="value"
-                    />
-                    <S.Label htmlFor="checkbox-id">{item}</S.Label>
-                </S.FilterItem>
-            ))}
+            {items ? (
+                items.map((item, key) => <Checkbox key={key} label={item} />)
+            ) : (
+                <Input />
+            )}
         </S.FilterWrapper>
     );
 };

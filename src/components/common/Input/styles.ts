@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const SearchContainer = styled.div`
+export const InputContainer = styled.div`
     display: flex;
     align-items: center;
     background: #f3f9fb;
@@ -10,7 +10,7 @@ export const SearchContainer = styled.div`
     max-width: 800px;
     padding: 15px;
 `;
-export const SearchInput = styled.input`
+export const Input = styled.input`
     border: none;
     width: 100%;
     background-color: transparent;

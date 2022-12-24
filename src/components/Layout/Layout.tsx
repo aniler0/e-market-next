@@ -1,11 +1,11 @@
 import React, { FC } from 'react';
 
+import { Input } from '@components/common';
 import Filter from '@components/Filter/Filter';
-import Product from '@components/Product/Product';
-import Searchbar from '@components/Searchbar/Searchbar';
-import { ExtractFilterPropertiesUtil } from '@utils/extract-filter-properties';
+import { SearchIcon } from '@components/icons';
+import ExtractFilterPropertiesUtil from '@utils/extract-filter-properties';
 
-import * as S from './style';
+import * as S from './styles';
 
 interface LayoutProps {
     children: React.ReactNode;
@@ -19,13 +19,17 @@ const Layout: FC<LayoutProps> = ({ children }) => {
             <S.Header>
                 <S.HeaderContainer>
                     <S.Brand>MegaMark</S.Brand>
-                    <Searchbar />
+                    <Input
+                        placeholder="Search essentials, groceries and more..."
+                        icon={<SearchIcon />}
+                    />
                 </S.HeaderContainer>
             </S.Header>
             <S.MainSection>
                 <S.ProductFilters>
                     <Filter title="Brands" items={brands} />
                     <Filter title="Sellers" items={sellers} />
+                    <Filter title="Price" items={[]} />
                 </S.ProductFilters>
                 <S.Products>{children}</S.Products>
             </S.MainSection>

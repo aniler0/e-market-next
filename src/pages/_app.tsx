@@ -1,7 +1,6 @@
 import '../styles/globals.css';
 
 import { Layout } from '@components';
-import { Roboto } from '@next/font/google';
 
 import type { AppProps } from 'next/app';
 

@@ -2,7 +2,7 @@ import { ProductsDataModel } from '@models/products-data.model';
 
 import products from '../../json/data.json';
 
-export class ExtractFilterPropertiesUtil {
+class ExtractFilterPropertiesUtil {
     private static getBrands() {
         let brands: string[] = [];
         products.map((product: ProductsDataModel) => {
@@ -30,3 +30,4 @@ export class ExtractFilterPropertiesUtil {
         };
     }
 }
+export default ExtractFilterPropertiesUtil;

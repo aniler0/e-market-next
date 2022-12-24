@@ -3,7 +3,13 @@ import { ProductsDataModel, RootProductsModel } from '@models/products-data.mode
 import { getProductsData } from '@utils';
 
 export default function Home({ products }: RootProductsModel) {
-    return products.map((product, key) => <Product key={key} {...product} />);
+    return (
+        <>
+            {products.map((product, key) => (
+                <Product key={key} {...product} />
+            ))}
+        </>
+    );
 }
 
 export async function getServerSideProps() {
