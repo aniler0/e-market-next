@@ -1,6 +1,7 @@
+import React from 'react';
+
 import Filter from '@components/Filter/Filter';
 import ExtractFilterPropertiesUtil from '@utils/extract-filter-properties';
-import React from 'react';
 
 import * as S from './styles';
 

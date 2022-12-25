@@ -2,18 +2,19 @@ import React, { FC } from 'react';
 
 import * as S from './styles';
 
-interface CheckboxProps extends React.HTMLAttributes<HTMLInputElement> {
+interface CheckboxProps {
     label: string;
+    handleChange: (e: React.ChangeEvent<HTMLInputElement>) => void;
 }
 
-const Checkbox: FC<CheckboxProps> = ({ label, ...props }) => {
+const Checkbox: FC<CheckboxProps> = ({ label, handleChange }) => {
     return (
         <S.CheckboxContainer>
             <S.Checkbox
                 type="checkbox"
-                name={`checkbox-${label}`}
+                name={label}
                 id={`checkbox-${label}`}
-                {...props}
+                onChange={handleChange}
             ></S.Checkbox>
             <S.Label htmlFor={`checkbox-${label}`}>{label}</S.Label>
         </S.CheckboxContainer>
